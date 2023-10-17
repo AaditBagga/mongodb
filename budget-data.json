@@ -1,0 +1,40 @@
+{
+    "myBudget": [
+        {
+            "title": "Eat out",
+            "budget": 40,
+            "color": "#ffcd56"
+        },
+        {
+            "title": "Rent",
+            "budget": 500,
+            "color": "#ff6384"
+        },
+        {
+            "title": "Groceries",
+            "budget": 100,
+            "color": "#36a2eb"
+        },
+        {
+            "title": "Entertainment",
+            "budget": 30,
+            "color": "#fd6b19"
+        },
+        {
+            "title": "Travel",
+            "budget": 70,
+            "color": "#19fd28"
+        },
+        {
+            "title": "Shopping",
+            "budget": 50,
+            "color": "#19fddf"
+        },
+        {
+            "title": "Health Care",
+            "budget": 80,
+            "color": "#ee19fd"
+        }
+
+    ]
+}
